@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteFluxoCaixa", "TesteFluxoCaixa\TesteFluxoCaixa.csproj", "{6254E530-CEA1-4921-8CCB-7BF930D11104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6254E530-CEA1-4921-8CCB-7BF930D11104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6254E530-CEA1-4921-8CCB-7BF930D11104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6254E530-CEA1-4921-8CCB-7BF930D11104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6254E530-CEA1-4921-8CCB-7BF930D11104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9992C80A-9558-457A-84EB-F5A2B3CD44AD}
+	EndGlobalSection
+EndGlobal
